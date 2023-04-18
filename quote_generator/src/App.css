@@ -1,0 +1,43 @@
+.wrap{
+  text-align: center;
+
+}
+button{
+  font-size: 20px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  float:right;
+  padding: 10px;
+  border-radius: 20%;
+  background-color: antiquewhite;
+}
+.but{
+  padding-top: 90px;
+  padding-right: 40px;
+  text-align: center;
+}
+.quote{
+  font-style: italic;
+}
+h1{
+  padding-top: 90px;
+  padding-bottom: 50px;
+  padding-right: 20px;
+  font-size: 50px;
+  /* float:left; */
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.quotes{
+  padding-top: 250px;
+  padding-left: 50px;
+}
+.author{
+  float:right;
+  padding-right: 60px;
+}
+.box{
+  background-color: rgba(240, 248, 255, 0.7);
+  color: black;
+  width: 60%;
+  margin: auto;
+}
